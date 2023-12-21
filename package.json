@@ -1,7 +1,7 @@
 {
-	"name": "prodia",
-	"version": "0.3.0",
-	"description": "Official TypeScript integration for Prodia's AI inference API.",
+	"name": "SoftDisStable Wildcard",
+	"version": "5",
+	"description": "SoftDisquiet + Prodia // STABLE Imagery.",
 	"main": "dist/prodia.js",
 	"types": "dist/prodia.d.ts",
 	"files": [
@@ -14,8 +14,8 @@
 		"prepublish": "tsc",
 		"format": "prettier --write ."
 	},
-	"author": "Monty Anderson <work@montyanderson.net>",
-	"license": "ISC",
+	"author": "Satanic S'mores <admin@softdisquiet.comt>",
+	"license": "MIT",
 	"devDependencies": {
 		"prettier": "^3.0.0",
 		"typescript": "^5.1.6"
